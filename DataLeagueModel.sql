@@ -1,6 +1,3 @@
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2018-12-09 08:33:13.343
-
 -- tables
 -- Table: COMPANY
 CREATE TABLE COMPANY (

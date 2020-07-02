@@ -10,3 +10,5 @@ Project created with:
 * SQL
 * Vertabelo
 
+## E-R model
+![alt text](https://github.com/gsalvoni/sql_reldatabase/blob/master/ERmodel.png)
